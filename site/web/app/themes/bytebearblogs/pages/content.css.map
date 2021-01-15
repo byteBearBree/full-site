@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "content.css",
+	"sources": [
+		"../sass/pages/content.scss"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,UAAU,CAAA;CACN,MAAM,EAAE,aAAa;CACxB"
+}
